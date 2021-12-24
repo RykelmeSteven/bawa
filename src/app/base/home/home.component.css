@@ -1,0 +1,30 @@
+.bar{
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: #ff006a !important;
+    width: 85vw !important;
+    margin: auto !important;
+}
+a{
+    color: white !important;
+    font-size: 18px;
+    margin-right: 20px;
+}
+img{
+    height: 5% !important;
+    width: 5% !important;
+    margin-right: 20px;
+
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../../../assets/images/fundoInicial.png"); 
+    background-repeat: no-repeat; 
+    background-position: block; 
+    background-size: 100%;
+}
+.buscar{
+    background-color: rgba(255, 235, 205, 0);
+    border-color: #ffffff !important;
+    color: white;
+}

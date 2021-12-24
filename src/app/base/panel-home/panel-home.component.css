@@ -1,0 +1,59 @@
+.row{
+    width: 90vw;
+    margin: auto;
+}
+.card{
+    margin-top: 2vh;
+    height: 20vh;
+}
+.card:hover{
+    transform: scale(0.9);
+    transition-duration: 500ms;
+    cursor: pointer;
+}
+.card{
+    background-repeat: no-repeat; 
+    background-position: block; 
+    background-size: 100%;
+    position: relative;
+}
+.back{
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+h2{
+    color: rgba(255, 255, 255, 0.857);
+}
+
+
+
+
+/* images */
+.restaurante{
+    background-image: url("../../../assets/images/restaurantImg.jpg"); 
+}
+.roles{
+    background-image: url("../../../assets/images/rolesdeHjImg.jpg"); 
+}
+.bares{
+    background-image: url("../../../assets/images/bebidasImg.jpg"); 
+}
+.shows{
+    background-image: url("../../../assets/images/showImg.jpg"); 
+}
+.baladas{
+    background-image: url("../../../assets/images/baladasImg.jpg"); 
+}
+.shoppings{
+    background-image: url("../../../assets/images/shoppingimg.jpg"); 
+}
+.cinemas{
+    background-image: url("../../../assets/images/cinemaImg.jpg"); 
+}
+.teatros{
+    background-image: url("../../../assets/images/teatros.jpg"); 
+}
